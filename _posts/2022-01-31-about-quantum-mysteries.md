@@ -18,9 +18,9 @@ But you could send one for Liisa, say the left hand one, and the other for Pekka
 No mystery in that.
 
 The same can go on with particles, e.g. between electrons in Cooper pair.  
-In Cooper pair two electrons get bound together in low temperature superconducting state. These bound electrons have opposite spins. These bound electrons can be separated by SET - Single-electron transistor. Once these electrons then are transferred in a lead apart from each other, the spins remaining opposite to each other.  
+In Cooper pair two electrons get bound together in low temperature superconducting state. These bound electrons must have opposite spins. They can be separated by a device called SET - Single-electron transistor. Once these electrons are transferred apart from each other, in leads of the SET, the spins are remaining opposite to each other.  
 No mystery in this either. It's only hard to keep track where ever entangled electrons lie with limited human perception.
-Making it hard to believe for us humans.
+Which makes the whole stuff hard to catch for us humans.
 
 ## Tunneling
 In tunneling phenomenon an elementary particle jumps over a barrier in an incomprehensible way, incomprehensible at least from classical mechanics' point of view.  
