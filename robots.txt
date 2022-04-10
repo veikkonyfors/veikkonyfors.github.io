@@ -1,1 +1,4 @@
 Sitemap: https://veikkonyfors.github.io/sitemap.xml
+
+user-agent:*
+Allow: /
